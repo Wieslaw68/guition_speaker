@@ -1,0 +1,4 @@
+
+repo: https://github.com/Wieslaw68/guition_speaker_plugin
+path: .                  # the folder with tessera-plugin.yaml
+maintainer: Wiesilaw68      # the owner of the repository, who opens the pull request
